@@ -57,12 +57,7 @@
   "resolutions": {
     "@web3-react/walletconnect-connector": "6.2.8"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "CI= GENERATE_SOURCEMAP=false react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+  "scripts": { "start": "react-scripts start", "build": "react-scripts build", "test": "react-scripts test", "eject": "react-scripts eject" },
   "eslintConfig": {
     "extends": "react-app"
   },
