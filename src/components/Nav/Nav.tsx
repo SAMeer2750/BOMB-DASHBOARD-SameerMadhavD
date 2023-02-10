@@ -279,6 +279,7 @@ const Nav = () => {
                 <ListItemLink primary="xBOMB" to="/xbomb" />
                 <ListItemLink primary="Boardroom" to="/boardroom" />
                 <ListItemLink primary="Bond" to="/bond" />
+                <ListItemLink primary="Dashboard" to="/dashboard" />
                 {/* <ListItemLink primary="SBS" to="/sbs" /> */}
                 {/* <ListItemLink primary="Liquidity" to="/liquidity" /> */}
                 {/* <ListItemLink primary="Regulations" to="/regulations" /> */}
@@ -291,7 +292,7 @@ const Nav = () => {
                   <ListItem button component="a" href="https://shop.bomb.money">
                   <ListItemText>Merch</ListItemText>
                   </ListItem>
-                     <ListItem button component="a" href="https://vote.bomb.money">
+                  <ListItem button component="a" href="https://vote.bomb.money">
                   <ListItemText>Vote</ListItemText>
                   </ListItem>
                 <ListItem button component="a" href="https://bombbtc.com">
